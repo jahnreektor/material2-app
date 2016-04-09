@@ -3,7 +3,7 @@
 
 
 // Person creating a theme writes variables like this:
-$md-is-dark-theme: true;
+$md-is-dark-theme: false;
 
 
 $md-primary: md-palette($md-blue, 500, 100, 700, $md-contrast-palettes);

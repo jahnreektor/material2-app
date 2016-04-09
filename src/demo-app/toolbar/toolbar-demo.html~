@@ -3,18 +3,6 @@
   <p>
     <md-toolbar>
       <i class="material-icons demo-toolbar-icon">menu</i>
-      <span>Default Toolbar Hey Hey</span>
-
-      <span class="demo-fill-remaining"></span>
-
-      <i class="material-icons">code</i>
-    </md-toolbar>
-  </p>
-
-
-  <p>
-    <md-toolbar>
-      <i class="material-icons demo-toolbar-icon">menu</i>
       <span>Default Toolbar</span>
 
       <span class="demo-fill-remaining"></span>
